@@ -1,6 +1,5 @@
 use std::fs::File;
 use std::io::*;
-use std::process::Output;
 
 //Handling errors
 
